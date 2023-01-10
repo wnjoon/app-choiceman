@@ -1,6 +1,8 @@
 # choiceman
 
-My First Flutter Project
+## 샘플이미지(2023.01.10 기준)
+
+![image](./sample/sample_230110.png)
 
 ## 만든 목적
 
